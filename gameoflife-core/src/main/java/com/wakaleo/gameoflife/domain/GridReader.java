@@ -1,4 +1,3 @@
-//adding additional line
 
 package com.wakaleo.gameoflife.domain;
 
