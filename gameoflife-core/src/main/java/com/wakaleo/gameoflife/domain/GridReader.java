@@ -1,3 +1,5 @@
+//adding additional line
+
 package com.wakaleo.gameoflife.domain;
 
 import java.util.ArrayList;
