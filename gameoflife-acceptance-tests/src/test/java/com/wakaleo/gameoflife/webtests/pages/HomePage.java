@@ -1,4 +1,3 @@
-//added custom line to testing branch
 
 package com.wakaleo.gameoflife.webtests.pages;
 
