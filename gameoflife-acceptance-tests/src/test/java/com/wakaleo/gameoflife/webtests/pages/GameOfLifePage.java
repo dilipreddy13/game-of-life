@@ -1,3 +1,5 @@
+//added custom line to test Jenkins with Jit 
+
 package com.wakaleo.gameoflife.webtests.pages;
 
 import net.thucydides.core.annotations.DefaultUrl;
